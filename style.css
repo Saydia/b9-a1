@@ -1,0 +1,156 @@
+.banner{
+   text-align: center;
+    color: aliceblue;
+    padding-top: 200px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+header{
+    background-image: url('./resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 600px;
+    width: 1220px;
+    margin-top: 30px;
+    margin-left:60px;
+    
+}
+
+.title{
+    font-size: 85px;
+    font-weight: 700;
+
+}
+
+.two{
+    color:red;
+   
+    font-family:Inter;
+    font-size: 88px;
+    font-weight:700;
+    line-height:normal;
+    padding-top:40px
+}
+
+.three{
+    color:red;
+   
+    font-size:20px;
+    font-weight:700;
+    font-family:Inter;
+    padding-top: 20px;
+}
+
+.four{
+    font-weight:700;
+    line-height:normal;
+    font-size:48px;
+   
+    font-family:Inter;
+}
+
+.five{
+    width:802.9px;
+    height:500px;
+    flex-shrink:0;
+}
+
+.seven{
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    padding-left:50px;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+
+.primary{
+    color: white;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: normal;
+padding-top:20px;
+padding-left: 100px;
+}
+
+.toto{
+    color:white;
+    font-family: Merriweather;
+    font-size:64px;
+    font-weight: 900px;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    padding-top:50px;
+    padding-left:50px
+}
+.six{
+    background-image: url('./resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 600px;
+    width: 1220px;
+    margin-top: 30px;
+    margin-left:60px;
+    display:flex;
+}
+
+.about{
+   padding:130px;
+   border-radius: 10px;
+   background:#FFF8F3;
+   margin:130px 0;
+}
+
+main{
+    max-width: 1140px;
+    margin:0 auto;
+}
+
+.secondary{
+    display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #F00;
+color:white
+}
+
+.section-column{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 40px; 
+    color:white;
+    padding:120px 100px 0px 140px; 
+    }
+    
+
+footer{
+    width:1500px;
+    height:600px;
+    background-color: #070211;
+    gap:100px;
+    display:flex;
+}
+
+.footer-column{
+    width:50%;
+}
+
+.social-link{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 40px; 
+    color:white;
+    padding:120px 140px 0px 100px  ; 
+}
+
+
+
